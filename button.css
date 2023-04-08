@@ -1,0 +1,45 @@
+
+.div3
+{
+	width: 1500px;
+	height: 50px;
+
+}
+.button
+{
+ width: 500px;
+ height: 30px;
+ margin-left: 520px;
+ margin-top: 10px;
+}
+.inbutton
+{
+float: left;
+margin-left: 30px;
+}
+a{
+	color: red;
+	font-family: Humanst521 Lt BT;
+	letter-spacing: 5px;
+	font-size: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+a:hover{
+text-decoration: unset;
+font-size: 18px;
+}
+a:active{
+	color: red;
+}
+a:visited{
+	color: purple
+
+}
+
+	#head
+		{
+			
+		background-color: #fff;
+			top;0
+		}
